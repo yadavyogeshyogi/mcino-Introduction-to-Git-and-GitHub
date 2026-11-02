@@ -1,0 +1,6 @@
+Command: git branch -avv 
+* bug-fix-typo                47c804b [origin/bug-fix-typo: ahead 1] Add bug fix revert output
+  main                        c681650 [origin/main] Add merge branches output
+  remotes/origin/HEAD         -> origin/main
+  remotes/origin/bug-fix-typo fc91cc7 Fix simple interest formula
+  remotes/origin/main         c681650 Add merge branches output
